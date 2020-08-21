@@ -1,0 +1,19 @@
+h2{
+    box-shadow: 0 0 0 8px orange, inset 0 0 0 4px orange;
+    border: 6px solid #FFFFFF;
+    padding: 15px;
+    margin: 10px;
+    color: orange;
+    text-align: center;
+}
+h3{
+    color: white;
+    background-color: rgb(250, 169, 18);
+    text-align: right;
+}
+body{
+    box-shadow: 0 0 0 1px black, inset 0 0 0 1px black ;
+}
+strong{
+    color: rgb(165, 0, 0);
+}

@@ -1,0 +1,8 @@
+h1{
+    color: rgb(221, 41, 41);
+    text-align: center;
+}
+.table tr th{
+    background-color: red;
+    color: white;
+}

@@ -1,0 +1,13 @@
+h1 {
+    color: #FFCC00;
+    text-align: center;
+}
+p{
+    color: #FFFFFF;
+}
+.div{
+    background-color: #A06D21;
+    background-image: url('images3.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+}

@@ -1,0 +1,39 @@
+h1{
+    color: rgb(230, 149, 0);
+    text-align: center;
+}
+.images{
+    width: 100px;
+}
+.table_01{
+    padding: 5px 10px;
+    margin-left: auto;
+    margin-right: auto; 
+    box-shadow: 1px 1px 5px 0 black;
+    padding: 20px;
+    background-color:#FFEDCA ;
+}
+.table_02{
+    width: 320px;
+    border: 1px solid red;
+}
+.table_02, .table_02 th,.table_02 td{
+    border: 1px solid purple;
+    border-collapse: collapse;
+}
+.table_02 thead{
+    color: white;
+    background-color: #CC6600;
+}
+.table_02 th:first-child{
+    width: 30px;
+}
+.table_02 td:first-child{
+    text-align: center ;
+}
+.table_02 tbody tr:nth-child(odd){
+    background-color: #FFFFFF;
+}
+.anh{
+    vertical-align: top;
+}
